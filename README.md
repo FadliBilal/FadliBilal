@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Fadli!
-Currently Study at University 17 August 1945 Surabaya, I love learn new thing in programming such as Javascript, PHP, Python.  
+Currently studying at University 17 August 1945 Surabaya, I love learning new things in programming such as Javascript, PHP, Python.  
 
 ### Tools:
 <p>
@@ -11,14 +11,14 @@ Currently Study at University 17 August 1945 Surabaya, I love learn new thing in
 
 ### Stats:
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m Undergraduate student of information systems and technology study. </br>
-    - 🌱 I’m currently learning Python,Laravel PHP and Javascript </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
+ <summary><strong>What I am learning/working on these days</strong></summary>
+    - 🔭 I’m an undergraduate student of information systems and technology. </br>
+    - 🌱 I’m currently learning Python, Laravel PHP, and Javascript </br>
+    - 🤔 I’m looking for help with mastering programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:fadlibilal783.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: I will leave my error behind when I have to sleep. </br>
+    - ⚡ Fun fact: I will leave my errors behind when I have to sleep. </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
@@ -27,24 +27,5 @@ Currently Study at University 17 August 1945 Surabaya, I love learn new thing in
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://www.linkedin.com/in/fadli-bilal-24a7a2235/" target="blank"><img src="https://img.shields.io/badge/Fadli%20Bilal-30302f?style=flat&logo=linkedin" /></a>
 </p>
-
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
