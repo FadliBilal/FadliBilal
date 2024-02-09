@@ -8,7 +8,6 @@ I'm Fadli, Student of Information Systems and Technology at the University of Au
 - 😴 Fun Fact: If there's an error, usually I don't fix it immediately because I might still be asleep!!
 
 ## Contact
-- LinkedIn : [Fadli Bilal](https://www.linkedin.com/in/fadli-bilal-24a7a2235/)
-- Email : fadlibilal783@gmail.com
+<a href="https://linkedin.bagusfe.com" target="_blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
 
 Feel free to connect with me through the platforms above! I'm eager to collaborate and learn together. 😊
