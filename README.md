@@ -1,6 +1,6 @@
 ## Hello everyone! 
 
-I'm Fadli, a student of Information Systems and Technology at the University of August 17, 1945 Surabaya. I'm passionate about learning various aspects of programming and technology. Currently, I'm exploring the world of programming with Python, JavaScript, and Laravel PHP.
+I'm Fadli, Student of Information Systems and Technology at the University of August 17, 1945 Surabaya. I'm passionate about learning various aspects of programming and technology. Currently, I'm exploring the world of programming with Latest Technologies like Artificial Intelligence and Machine Learning.
 
 ## About Me
 - 🎓 Bachelor's degree student in Information Systems and Technology
