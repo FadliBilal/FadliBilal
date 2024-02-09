@@ -1,7 +1,3 @@
-# Fadli's GitHub Profile 👨‍💻
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 Hello everyone! I'm Fadli, a student of Information Systems and Technology at the University of August 17, 1945 Surabaya. I'm passionate about learning various aspects of programming and technology. Currently, I'm exploring the world of programming with Python, JavaScript, and Laravel PHP.
 
 ## About Me
