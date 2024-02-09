@@ -4,11 +4,11 @@ I'm Fadli, Student of Information Systems and Technology at the University of Au
 
 ## About Me
 - 🎓 Bachelor's degree student in Information Systems and Technology
-- 💻 Currently learning: Python, JavaScript, and Laravel PHP
+- 💻 Currently learning : Python, JavaScript, and Laravel PHP
 - 😴 Fun Fact: If there's an error, usually I don't fix it immediately because I might still be asleep!!
 
 ## Contact
-- LinkedIn: [Fadli Bilal](https://www.linkedin.com/in/fadli-bilal-24a7a2235/)
-- Email: fadlibilal783@gmail.com
+- LinkedIn : [Fadli Bilal](https://www.linkedin.com/in/fadli-bilal-24a7a2235/)
+- Email : fadlibilal783@gmail.com
 
 Feel free to connect with me through the platforms above! I'm eager to collaborate and learn together. 😊
