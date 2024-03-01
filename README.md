@@ -7,9 +7,10 @@ I'm Fadli, Student of Information Systems and Technology at the University of Au
 - 💻 Currently learning : Python, JavaScript, and Laravel PHP
 - 😴 Fun Fact: If there's an error, usually I don't fix it immediately because I might still be asleep!!
 
+
 ## Contact
 <a href="https://www.linkedin.com/in/fadli-bilal-24a7a2235/" target="_blank"><img src="https://img.shields.io/badge/Fadli_Bilal-30302f?style=flat&logo=linkedin" /></a>
 
 Feel free to connect with me through the platforms above! I'm eager to collaborate and learn together. 😊
 
-[![GitHub Streak](https://streak-stats.demolab.com/?FadliBilal=DenverCoder1)](https://git.io/streak-stats)
+Languang[![My Skills](https://skillicons.dev/icons?i=js,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
