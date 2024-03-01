@@ -14,13 +14,13 @@ Feel free to connect with me through the platforms above! I'm eager to collabora
 
 <p align="center">
   <a href="https://github.com/FadliBilal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadliBilal&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/FadliBilal">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Fadli Bilal's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FadliBilal&theme=radical" alt="Fadli Bilal's GitHub Contribution"/>
   </a>
 </p>
 
