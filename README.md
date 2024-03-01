@@ -31,4 +31,4 @@ Feel free to connect with me through the platforms above! I'm eager to collabora
 </a>
 
 
-![Fadli Bilal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=FadliBilal&custom_title=Al%20Fadli's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Fadli Bilal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=FadliBilal&custom_title=Fadli%20Bilal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
