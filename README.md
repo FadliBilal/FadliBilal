@@ -4,7 +4,7 @@ I'm Fadli, Student of Information Systems and Technology at the University of Au
 
 ## About Me
 - 🎓 Bachelor's degree student in Information Systems and Technology
-- 💻 Currently learning : Python, JavaScript, and Laravel PHP
+- 💻 Currently learning : Python, and Laravel PHP
 - 😴 Fun Fact: If there's an error, usually I don't fix it immediately because I might still be asleep!!
 
 ## Contact
