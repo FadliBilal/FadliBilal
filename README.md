@@ -14,6 +14,3 @@ Feel free to connect with me through the platforms above! I'm eager to collabora
 
 ## Tech Favorite
 [![My Skills](https://skillicons.dev/icons?i=py,php,mysql,laravel&theme=light)](https://skillicons.dev)
-
-## IDE I Use it
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,&theme=light)](https://skillicons.dev)
