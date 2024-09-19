@@ -3,7 +3,7 @@
 I'm Fadli, Student of Information Systems and Technology at the University of August 17, 1945 Surabaya. I'm passionate about learning various aspects of programming and technology. Currently, I'm exploring the world of programming with Latest Technologies.
 
 ## About Me
-- 🎓 Bachelor's degree student in Information Systems and Technology
+- 🎓 Undergraduate student in Information Systems and Technology
 - 💻 Currently learning : Python, SQL, and Laravel PHP
 - 😴 Feel excited with Sprint Method
 
