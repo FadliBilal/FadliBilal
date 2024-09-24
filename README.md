@@ -15,4 +15,4 @@ I'm Fadli, Student of Information Systems and Technology at the University of Au
 Feel free to connect with me through the platforms above! I'm eager to collaborate and learn together. 😊
 
 ## Tech Favorite
-[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,laravel,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,laravel,git&theme=light)](https://skillicons.dev)
