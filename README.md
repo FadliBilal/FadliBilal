@@ -10,7 +10,7 @@ I'm Fadli, Student of Information Systems and Technology at the University of Au
 ## Contact
 <a href="https://www.linkedin.com/in/fadli-bilal-24a7a2235/" target="_blank"><img src="https://img.shields.io/badge/Fadli_Bilal-30302f?style=flat&logo=linkedin" /></a>
 <a href="https://www.instagram.com/fadlibilal_/" target="_blank"><img src="https://img.shields.io/badge/Fadli_Bilal-30302f?style=flat&logo=instagram" /></a>
-<a href="fadlibilal783@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Fadli_Bilal-30302f?style=flat&logo=email" /></a>
+<a href="fadlibilal783@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Fadli_Bilal-30302f?style=flat&logo=gmail" /></a>
 <br>
 Feel free to connect with me through the platforms above! I'm eager to collaborate and learn together. 😊
 
