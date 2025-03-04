@@ -1,6 +1,6 @@
 ## Hello everyone! 
 
-I'm Fadli, Student of Information Systems and Technology at the University of August 17, 1945 Surabaya. I'm passionate about learning various aspects of programming and technology. Currently, I'm exploring the world of programming with Latest Technologies.
+I'm Fadli, Student of Information Systems and Technology at the University of August 17, 1945 Surabaya. I'm passionate about learning various aspects of programming and technology. Currently, I'm exploring the world of programming with Latest Technologies like (Laravel 12 and NextJS).
 
 ## About Me
 - 🎓 Undergraduate student in Information Systems and Technology.
